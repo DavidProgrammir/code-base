@@ -1,0 +1,1 @@
+[{"id": 1, "name": "Id_dev", "password": "1234", "roles": ["Admin", "Manager"], "address": {"street": "Smith", "home": 101}}, {"id": 2, "name": "RustyPunk", "password": "root", "roles": ["Guest"], "address": {"street": "Albukerke", "home": 15}}, {"id": 3, "name": "David", "password": "ksajdgkjs", "roles": ["Student"], "address": {"street": "SomeStreet", "home": 3}}]
